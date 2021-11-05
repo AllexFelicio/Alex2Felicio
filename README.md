@@ -1,4 +1,4 @@
-## Hi! I'm Alex Sander :technologist_light_skin_tone:
+## Hi! I'm Alex Sander :computer:
 <div align="center">
   <a href="https://github.com/alksss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex2Felicio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
