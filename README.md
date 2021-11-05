@@ -1,4 +1,4 @@
-## Hi! I'm Alex Sander :computer:
+## Hi! I'm Alex Sander :man_technologist:
 
 - ⚙️ Computer Engineering student at Facens (8/10)
 
