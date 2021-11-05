@@ -1,8 +1,8 @@
 ## Hi! I'm Alex Sander :man_technologist:
 
-- ⚙️ Computer Engineering student at Facens (8/10)
+- ⚙️:books: Computer Engineering student at Facens (8/10)
 
-##Github Stats
+## Github Stats 💻
 <div align="center">
   <a href="https://github.com/alksss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex2Felicio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
