@@ -9,7 +9,7 @@
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex2Felicio&show_icons=true&locale=en" alt="Alex2Felicio" /></p>
 </div>
   
-<div style="display: inline_block"><br>
+<div align="center", style="display: inline_block"><br>
    <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Alex-PostGRE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
    <img align="center" alt="Alex-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
