@@ -6,7 +6,7 @@
 <div align="center">
    <a href="https://github.com/alksss">
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex2Felicio&show_icons=true&locale=en&layout=compact" alt="Alex2Felicio" /></p>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex2Felicio&show_icons=true&locale=en" alt="Alex2Felicio" /></p>
+   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex2Felicio&show_icons=true&locale=en" alt="Alex2Felicio" /></p>
  
 </div>
   
