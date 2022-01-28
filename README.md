@@ -5,7 +5,7 @@
 ## Github Stats 💻
 <div align="center">
   <a href="https://github.com/alksss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex2Felicio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando2dias&show_icons=true&locale=en&layout=compact" alt="Alex2Felicio" /></p>
 </div>
   
 <div style="display: inline_block"><br>
