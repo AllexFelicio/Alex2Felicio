@@ -11,15 +11,15 @@
 </div>
   
 <div align="center", style="display: inline_block"><br>
-   <img align="center" alt="Alex-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Alex-PostGRE" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
-   <img align="center" alt="Alex-Vs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-   <img align="center" alt="Alex-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Alex-Flutter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-   <img align="center" alt="Alex-Trello" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
-   <img align="center" alt="Alex-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Alex-HTML" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-   <img align="center" alt="Alex-CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+   <img align="center" alt="Alex-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Alex-PostGRE" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
+   <img align="center" alt="Alex-Vs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+   <img align="center" alt="Alex-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Alex-Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+   <img align="center" alt="Alex-Trello" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+   <img align="center" alt="Alex-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Alex-HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+   <img align="center" alt="Alex-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
 </div>
   
   ##
